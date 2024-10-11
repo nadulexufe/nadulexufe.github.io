@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://nadulexufe.github.io/sitemap/sitemap_index.txt.gz
